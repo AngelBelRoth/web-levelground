@@ -1,4 +1,4 @@
-# Website: Level Ground
+# Website Styling: Level Ground
 
 A web project / static site named *Level Ground*.  
 This repository contains the front‑end code (HTML, CSS, JavaScript, assets) for the Level Ground website demo.
