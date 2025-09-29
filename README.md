@@ -5,9 +5,7 @@ This repository contains the front‑end code (HTML, CSS, JavaScript, assets) fo
 
 ---
 
-## Live Demo
-
-(https://angelbelroth.github.io/web-levelground/lg/index.html)
+[## Live Demo](https://angelbelroth.github.io/web-levelground/lg/index.html)
 
 ---
 
